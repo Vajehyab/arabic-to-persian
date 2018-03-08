@@ -1,0 +1,12 @@
+{
+  "name": "arabic-to-persian",
+  "version": "1.0.0",
+  "description": "A helper function to convert arabic text to persian",
+  "main": "index.js",
+  "repository": "https://github.com/Vajehyab/arabic-to-persian.git",
+  "author": "Tooraj Khatibi <2rajpx@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+  }
+}
